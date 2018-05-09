@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/YY_Git.iml" filepath="$PROJECT_DIR$/YY_Git.iml" />
+      <module fileurl="file://D:\yun123\yun\YY_Git.iml" filepath="D:\yun123\yun\YY_Git.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\yun123\yun\app\app.iml" filepath="D:\yun123\yun\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yun.iml" filepath="$PROJECT_DIR$/.idea/yun.iml" />
     </modules>
   </component>
 </project>
